@@ -25,6 +25,77 @@ In this white paper, VR is discussed in terms of its evolution, its differences 
 This paper was created under the guidance of **Ms Divya Priyadharshini Mohan and IIM Skills Pvt Limited.** During the preparation I have gained knowledge from the following research papers: Virtual Reality/Augmented Reality white paper, The potentials and trends of Virtual Reality in education, Application of Virtual Reality for Enhanced Learning, Military training and sports, Virtual Reality white paper by Sensolligent.
 Due to the constraints with time and knowledge there may be some mistakes in this paper. Please feel free to correct me anytime. 
 # Table of Contents
-1 Introduction
-      1.1 Evolution of VR
+1. Introduction
+      1. Evolution of VR
+      2. Difference between Augmented and Virtual Reality
+      3. Types and Characteristics of VR
+2. Areas of application of VR
+      1. Applications of VR in education
+            1. Observational Learning
+            2. Operational Learning
+            3. Social Learning 
+            4. Scientific Research
+      2. Advantages of the VR technology in education
+      3. Disadvantages of VR in education
+      4. Futuristic approach of VR in education
+3. References
+4. Glossary
+5. List of Abbreviations
+6. Appendix
+# List of Figures
+1. Applications of VR
+2. Virtual Campus using VR
+3. Virtual Open Space using VR
+4. Usage of VR on Space Exploration
+5. Usage of VR to View Internal Organs
+# List of Tables
+1. Evolution of VR
+2. Difference between AR and VR
+3. Advantages of VR in education
+## 1. Introduction
+The term Virtual Reality has its self-definition with ‘virtual’ referring to ‘near’ and ‘reality’ referring to the real-time experience by human beings. So, it basically means a near-reality. According to Britannica, virtual reality (VR), uses computer modeling and simulation that enables a person to interact with an artificial three-dimensional (3-D) visual or other sensory environments. VR applications involve the user in a computer-generated environment that simulates reality through the use of interactive devices, which send and receive information and are worn as goggles, headsets, gloves, or bodysuits. In a typical VR format, a user wearing a helmet with a stereoscopic screen views animated images of a simulated environment. Although the technology seems to be futuristic, its evolution dates back to the 1950s.
+### i. Evolution of VR
+#### Table 1 Evolution of VR, Source: (Dejian Liu, 2017)
+| **Year** | **Achievement** |
+| -----|:-----------: |
+| 1956 | The first VR system developed was the Sensorama which was mentioned as future of cinema. |
+| 1965 | Concept of ultimate display was developed wherein a head mounted visual output device that displayed computer generated images on a monitor near to the eyes. |
+| 1980s | VIEW system was developed included device like data gloves and head trackers. |
+| 1987 - 1989 | Discussion on the concept of interface hardware, huma- computer interactive interface held and the term Virtual Reality was coined. |
+| 1990s-early 2000s | The simulation and emulation environments based on VR extended to various reasearches in the field of military, science, engineering, education, medicine, business, art, entertainment and other fields. |
+| 2008-2013 | Five element (5P) topology was introduced. Purpose,place,platform,population and profit terms were taken into account for the usage of VR |
+| 2014 | VR offers  communication options for the users who in the virtual world will be able to engage in real time synchronous interactions. |
+| To date | Subsequent researches extended the definitionof immersion of user's interaction with environment and objects within it to the interaction between different users Immersion and interaction was considered as a most important and widely accepted characteristics of VR. |
+### ii. Difference between Augmented and Virtual Reality
+#### Table 2 Difference between AR and BR, Source: (Sensolligent, 2018)
+| **Augmented Reality** | **Virtual Reality** |
+| --------------------- | :-------------------:|
+| The user looks into the real world with the additional environment being displayed | The real surroundings are not perceived by the user and everything is virtual |
+| The user will be able to experience Augmented Reality (AR) just with a smartphone, tablet, heads-up display, holographic system sometimes AR glasses may be required | The user will experience the 3D world by using VR glasses, the virtual world can be viewed, heard, and experienced. |
+| AR is mainly used in explaining the installation, navigation, and at times for gaming purposes | VR is mainly used in industries, educational training, 3D games, entertainment, and media. |
+| AR simply uses mobile devices so their performance is minimal | Though VR’s performance depends on the capability of the computer systems it provides a 360-degree view of the images and videos in the 3D world |
+### iii. Types and characteristics of VR
+As per (Dejian Liu, 2017), VR is generally classified into two and they are,
+- Game-oriented VR – it has precise rules and regulations and has limited activities like creating certain characters.
+- Socially-oriented VR – grants users unlimited freedom to create their characters to get engaged in virtual activities.
+
+There are three major characteristics of VR – Immersion, Interaction, and Imagination.
+- **Immersion –** Refers to the immersive experience of being there in a 3D environment. It focuses on verisimilitude and multiple simulations of the environment.
+- **Interaction –** Refers to the interaction of the user with the 3D world and with other users. The main intention is the natural interaction in the VR environment and interpersonal interaction between different users
+- **Imagination –** Enables people to imagine things that don’t exist in the real world, increases perceptual and natural knowledge, deepens the understanding of concepts, and trigger new associations
+## 2. Areas of applications of VR
+#### Figure 1 Applications of VR, Source: (Sensolligent, 2018), (Dejian Liu, 2017) and https://www.iberdrola.com/
+
+
+
+
+
+
+
+
+
+
+
+
+      
 
