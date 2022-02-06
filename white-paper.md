@@ -84,18 +84,5 @@ There are three major characteristics of VR – Immersion, Interaction, and Imag
 - **Interaction –** Refers to the interaction of the user with the 3D world and with other users. The main intention is the natural interaction in the VR environment and interpersonal interaction between different users
 - **Imagination –** Enables people to imagine things that don’t exist in the real world, increases perceptual and natural knowledge, deepens the understanding of concepts, and trigger new associations
 ## 2. Areas of applications of VR
-#### Figure 1 Applications of VR, Source: (Sensolligent, 2018), (Dejian Liu, 2017) and https://www.iberdrola.com/
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
+#### Figure 1 Applications of VR, Source: (Sensolligent, 2018), (Dejian Liu, 2017) and https://www.iberdrola.com/ 
+![pic1](https://user-images.githubusercontent.com/99115563/152688150-ff2b5317-c22b-4104-bbad-6fb3d14875f2.png)
