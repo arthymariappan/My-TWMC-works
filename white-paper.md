@@ -97,12 +97,8 @@ There are three major characteristics of VR – _**Immersion, Interaction, and I
 - **Imagination –** Enables people to imagine things that don’t exist in the real world, increases perceptual and natural knowledge, deepens the understanding of concepts, and trigger new associations
 
 ## 2. Areas of applications of VR
-<h4 align="center">Figure 1 Applications of VR, Source: (Sensolligent, 2018), (Dejian Liu, 2017) and https://www.iberdrola.com/</h4> 
-
-<p align="center"> 
+#### Figure 1 Applications of VR, Source: (Sensolligent, 2018), (Dejian Liu, 2017) and https://www.iberdrola.com/
 ![pic1](https://user-images.githubusercontent.com/99115563/152688150-ff2b5317-c22b-4104-bbad-6fb3d14875f2.png)
-</p>
-
 ### i. Applications of VR in education
 Though the utility of VR in the field of education is in the preliminary stage, still it brought into conventional classrooms on a large scale. VR can create a virtual learning environment especially for objects that are difficult to touch or even those that do not exist in the real world, e.g., avionics and retroactive imaging. The students can investigate and control 3D intelligent conditions with the help of VR. (Dejian Liu, 2017). Look at _**Appendix**_ for more details on how VR is used in the classroom.
  Based on the number of previous studies, the application of VR can be divided into 4 types
@@ -114,13 +110,11 @@ Though the utility of VR in the field of education is in the preliminary stage, 
 #### a. Observational learning
 With the help of VR students’ conduct and development can be changed to a 3D space that encourages them to explore the virtual activities. Students will be able to freely navigate in virtual environments and obtain the initiative feelings for the things present inside different spatial perspectives. Students can therefore get a better understanding of characteristics, construction, and other relevant processing of learning targets. 
 The virtual campus is one of the best examples to state as an application of VR which simulates a real campus using 3D virtual technology. The virtual campus can help students to be familiar with the campus environment and the facilities available before they enter the institution. 
-<h5 align="center">Figure 2 Virtual campus using VR, Source: (Dejian Liu, 2017)</h5>
-
+##### Figure 2 Virtual campus using VR, Source: (Dejian Liu, 2017)
 <img width="512" alt="virtual_campus_using_VR" src="https://user-images.githubusercontent.com/99115563/152803804-ba11122a-e022-4c12-8e9f-57c5fd1a00e8.png">
 The other supportive systems like a virtual ground such as open space, amusement space, participation space, and study halls are also created using VR. This gives room for synchronous lectures, rich plugins that can boost the interaction between students and teachers.
 
-<h5 align="center">Figure 3 Virtual open space using VR, Source: https://learnbrite.com/virtual-reality-campus/</h5>
-
+##### Figure 3 Virtual open space using VR, Source: https://learnbrite.com/virtual-reality-campus/
 ![virtual_space_using_Vr](https://user-images.githubusercontent.com/99115563/152804374-74292c4a-9db6-45bd-ae11-c83be4c98acd.jpg)
 VR technology not only simulates the scenes behind the real world but also transcends the limits of time, space, and human senses to retrieve the scenes that do not exist in current society, by using VR technology the physical space can be zoomed in and transferred to represent micro and macro worlds. Therefore, this technology can be widely used in science education, for instance, to learn about astronomy, explore the structure of molecules and cells, etc. (Dejian Liu, 2017) (Kunjal Ahir, 2019)
 
@@ -129,9 +123,7 @@ The VR technology opened up space for tangible learning. With the help of the le
 Simultaneously the students will get immediate feedback for their operations and behaviors that helps them to correct their wrong operation and gives better understanding during the learning process. The VR technology simulates the real scenes in skill training, it provides opportunities to the student to practice over and over, facilitating the skill transfer into real tasks.
 Some of the examples like medical operation and driving can have their costs high in real-time and endangered too. VR technology provides a training platform more conveniently and safely. 
 In real-time, the Science Space project was developed using NASA’s fund includes a virtual platform called ‘Newton World’, which can simulate the scenes where there is no gravity and friction. The learners will be able to launch and catch balls with different masses via the virtual hands, through which they can understand Newton’s law of motion and the law of conservation of energy. (Dejian Liu, 2017) (Kunjal Ahir, 2019)
-
-<h5 align="center"> Figure 4 Usage of VR for Space exploration, Source: https://unimersiv.com/how-nasa-is-using-virtual-and-augmented-reality-to-train-astronauts-37/</h5>
-
+##### Figure 4 Usage of VR for Space exploration, Source: https://unimersiv.com/how-nasa-is-using-virtual-and-augmented-reality-to-train-astronauts-37/
 ![VR_space_exploration](https://user-images.githubusercontent.com/99115563/152804850-72ec2ff0-19a0-4bfc-a8a1-079ff95c6439.jpg)
 
 #### c. Social Learning
@@ -142,9 +134,7 @@ The student will be able to participate in the real-time class interaction and c
 #### d. Scientific research
 In addition to teaching, VR technology also has great importance in scientific research. Many academic institutions use VR labs, especially for the science areas. VR technology can simulate various science and engineering environments as a result of which it can decrease the cost and risk of conducting experiments in laboratories.
 Additionally, VR technology can simulate and create some scenes and effects that cannot be achieved in the real world through which the experimental conditions can be manipulated and controlled flexibility. For example, VR technology can be used to visualize the internal organs and makes sense to the researchers on the operation.
-
-<h5 align="center">Figure 5 Usage of VR to view internal organs, Source: https://blog.frontiersin.org/2020/02/05/to-the-frontiers-of-virtual-reality/</h5> 
-
+##### Figure 5 Usage of VR to view internal organs, Source: https://blog.frontiersin.org/2020/02/05/to-the-frontiers-of-virtual-reality/
 ![VR_for_medicine](https://user-images.githubusercontent.com/99115563/152805841-4c134201-abea-4fdb-85e1-6f80304d6876.jpg)
 
 ### ii. Advantages of the VR technology in education
