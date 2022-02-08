@@ -1,5 +1,6 @@
 <h1 align="center">White Paper on Virtual Reality</h1>
 <h2 align="center">Author: Arthy M</h2>
+<h3 align="center">Date: 25/01/2022<h3>
 
 # Summary
 ## Executive summary
@@ -97,8 +98,11 @@ There are three major characteristics of VR – _**Immersion, Interaction, and I
 - **Imagination –** Enables people to imagine things that don’t exist in the real world, increases perceptual and natural knowledge, deepens the understanding of concepts, and trigger new associations
 
 ## 2. Areas of applications of VR
-#### Figure 1 Applications of VR, Source: (Sensolligent, 2018), (Dejian Liu, 2017) and https://www.iberdrola.com/
-![pic1](https://user-images.githubusercontent.com/99115563/152688150-ff2b5317-c22b-4104-bbad-6fb3d14875f2.png)
+<h4 align="center">Figure 1 Applications of VR, Source: (Sensolligent, 2018), (Dejian Liu, 2017) and https://www.iberdrola.com/</h4>
+<p align="center">
+  <img width="1414" height="2000" src="https://user-images.githubusercontent.com/99115563/152688150-ff2b5317-c22b-4104-bbad-6fb3d14875f2.png">
+</p>
+
 ### i. Applications of VR in education
 Though the utility of VR in the field of education is in the preliminary stage, still it brought into conventional classrooms on a large scale. VR can create a virtual learning environment especially for objects that are difficult to touch or even those that do not exist in the real world, e.g., avionics and retroactive imaging. The students can investigate and control 3D intelligent conditions with the help of VR. (Dejian Liu, 2017). Look at _**Appendix**_ for more details on how VR is used in the classroom.
  Based on the number of previous studies, the application of VR can be divided into 4 types
@@ -110,12 +114,17 @@ Though the utility of VR in the field of education is in the preliminary stage, 
 #### a. Observational learning
 With the help of VR students’ conduct and development can be changed to a 3D space that encourages them to explore the virtual activities. Students will be able to freely navigate in virtual environments and obtain the initiative feelings for the things present inside different spatial perspectives. Students can therefore get a better understanding of characteristics, construction, and other relevant processing of learning targets. 
 The virtual campus is one of the best examples to state as an application of VR which simulates a real campus using 3D virtual technology. The virtual campus can help students to be familiar with the campus environment and the facilities available before they enter the institution. 
-##### Figure 2 Virtual campus using VR, Source: (Dejian Liu, 2017)
+<h4 align="center">Figure 2 Virtual campus using VR, Source: (Dejian Liu, 2017)</h4>
+<p align="center">
 <img width="512" alt="virtual_campus_using_VR" src="https://user-images.githubusercontent.com/99115563/152803804-ba11122a-e022-4c12-8e9f-57c5fd1a00e8.png">
+</p>
 The other supportive systems like a virtual ground such as open space, amusement space, participation space, and study halls are also created using VR. This gives room for synchronous lectures, rich plugins that can boost the interaction between students and teachers.
 
-##### Figure 3 Virtual open space using VR, Source: https://learnbrite.com/virtual-reality-campus/
-![virtual_space_using_Vr](https://user-images.githubusercontent.com/99115563/152804374-74292c4a-9db6-45bd-ae11-c83be4c98acd.jpg)
+<h4 align="center">Figure 3 Virtual open space using VR, Source: https://learnbrite.com/virtual-reality-campus/</h4>
+<p align="center">
+  <img width="1010" height="568" src="https://user-images.githubusercontent.com/99115563/152804374-74292c4a-9db6-45bd-ae11-c83be4c98acd.jpg">
+</p>
+
 VR technology not only simulates the scenes behind the real world but also transcends the limits of time, space, and human senses to retrieve the scenes that do not exist in current society, by using VR technology the physical space can be zoomed in and transferred to represent micro and macro worlds. Therefore, this technology can be widely used in science education, for instance, to learn about astronomy, explore the structure of molecules and cells, etc. (Dejian Liu, 2017) (Kunjal Ahir, 2019)
 
 #### b. Operational Learning
@@ -123,8 +132,11 @@ The VR technology opened up space for tangible learning. With the help of the le
 Simultaneously the students will get immediate feedback for their operations and behaviors that helps them to correct their wrong operation and gives better understanding during the learning process. The VR technology simulates the real scenes in skill training, it provides opportunities to the student to practice over and over, facilitating the skill transfer into real tasks.
 Some of the examples like medical operation and driving can have their costs high in real-time and endangered too. VR technology provides a training platform more conveniently and safely. 
 In real-time, the Science Space project was developed using NASA’s fund includes a virtual platform called ‘Newton World’, which can simulate the scenes where there is no gravity and friction. The learners will be able to launch and catch balls with different masses via the virtual hands, through which they can understand Newton’s law of motion and the law of conservation of energy. (Dejian Liu, 2017) (Kunjal Ahir, 2019)
-##### Figure 4 Usage of VR for Space exploration, Source: https://unimersiv.com/how-nasa-is-using-virtual-and-augmented-reality-to-train-astronauts-37/
-![VR_space_exploration](https://user-images.githubusercontent.com/99115563/152804850-72ec2ff0-19a0-4bfc-a8a1-079ff95c6439.jpg)
+
+<h4 align="center">Figure 4 Usage of VR for Space exploration, Source: https://unimersiv.com/how-nasa-is-using-virtual-and-augmented-reality-to-train-astronauts-37/</h4>
+<p align="center">
+  <img width="800" height="532" src="https://user-images.githubusercontent.com/99115563/152804850-72ec2ff0-19a0-4bfc-a8a1-079ff95c6439.jpg">
+</p>
 
 #### c. Social Learning
 Social learning under VR technology is said to be the most significant one. The students will be able to study through interaction and co-operation with others in the simulated environment.  
@@ -134,8 +146,12 @@ The student will be able to participate in the real-time class interaction and c
 #### d. Scientific research
 In addition to teaching, VR technology also has great importance in scientific research. Many academic institutions use VR labs, especially for the science areas. VR technology can simulate various science and engineering environments as a result of which it can decrease the cost and risk of conducting experiments in laboratories.
 Additionally, VR technology can simulate and create some scenes and effects that cannot be achieved in the real world through which the experimental conditions can be manipulated and controlled flexibility. For example, VR technology can be used to visualize the internal organs and makes sense to the researchers on the operation.
-##### Figure 5 Usage of VR to view internal organs, Source: https://blog.frontiersin.org/2020/02/05/to-the-frontiers-of-virtual-reality/
-![VR_for_medicine](https://user-images.githubusercontent.com/99115563/152805841-4c134201-abea-4fdb-85e1-6f80304d6876.jpg)
+
+<h4 align="center">Figure 5 Usage of VR to view internal organs, Source: https://blog.frontiersin.org/2020/02/05/to-the-frontiers-of-virtual-reality/</h4>
+<p align="center">
+  <img width="944" height="531" src="https://user-images.githubusercontent.com/99115563/152805841-4c134201-abea-4fdb-85e1-6f80304d6876.jpg">
+</p>
+
 
 ### ii. Advantages of the VR technology in education
 #### Source: https://immersionvr.co.uk/about-360vr/vr-for-education/
@@ -193,3 +209,60 @@ Long after the VR has finished, students remember the experience and they are ea
 In the future, VR is likely to lead to an increasing emphasis on interdisciplinary perspectives and technical writing, while the use of video-game-based technologies will contribute to changes in the look and feel of the class environment.
 The adoption and integration of VR in education will also signal a much-needed shift away from learning that is too abstract and disconnected from practice and experience. It empowers students by offering a more experimental mode of learning and promoting the need for conceptual understanding.
 The development of the virtual classroom is likely to move the education towards immersive and interactive learning environments, involving various components such as games, field trips, and simulations to make learning more effective, more hands-on, and more fun. (Kunjal Ahir, 2019).
+
+# References
+[1] China Academy Of Information and Communications Technology, Huawei  Technologies Virtual Reality/Augmented Reality White paper - 2017.
+
+[2] Dejian Liu Kaushal Kumar Bhagat, Yuan Gao, Ting-Wen Chang The Potentials and Trends of Virtual Reality in education - 2017.
+
+[3] https://roboticsbiz.com/
+
+[4] Kunjal Ahir Kajal Govani, Rutvik Gajera, Manan Shah Application on Virtual Reality for Enhanced Education Learning, Military training and sports - 2019.
+
+[5] Sensolligent VIRTUAL REALITY - WHITE PAPER - 2018.
+
+[6] https://blog.frontiersin.org/2020/02/05/to-the-frontiers-of-virtual-reality/
+
+[7] https://immersionvr.co.uk/about-360vr/vr-for-education/
+
+[8] https://unimersiv.com/how-nasa-is-using-virtual-and-augmented-reality-to-train-astronauts-37/
+
+[9] https://learnbrite.com/virtual-reality-campus/ 
+
+[10] https://www.iberdrola.com/
+
+# Glossary
+
+| **Term** | **Explanation** |
+| --------- | :------------:|
+| **3D** | In computers, 3-D (three dimensions or three-dimensional) describes an image that provides the perception of depth. |
+| **Augmented Reality** | Augmented reality (AR) is an **interactive experience of a real-world environment** where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory. |
+| **Data gloves** | A data glove is an interactive device, resembling a glove worn on the hand, **which facilitates tactile sensing and fine-motion control in robotics and virtual reality.** |
+| **Head trackers** | Head tracking is a software application that monitors a user’s head position and orientation. |
+| **Immersion** | Immersion into virtual reality (VR) is a perception of being physically present in a non-physical world. The perception is created by surrounding the user of the VR system in images, sound or other stimuli that provide an engrossing total environment. |
+| **Parkinson’s disease** | Parkinson's disease is **a nervous system disease that affects your ability to control movement.** |
+| **Simulation** | A simulation is the imitation of the operation of a real-world process or system over time. Simulations require the use of models; the model represents the key characteristics or behaviors of the selected system or process, whereas the simulation represents the evolution of the model over time. Often, computers are used to execute the simulation. |
+| **Synchronous interaction** | Synchronous interactions are those in which one system sends a message to another and waits for an acknowledgment or response before it proceeds. |
+| **Topology** | Topology is the mathematical study of the properties that are preserved through deformations, twistings, and stretchings of objects. |
+| **Virtual campus** | Virtual Campus is **a customized collection of 3D environments for enterprises, universities, schools and organizations.** |
+| **Virtual Reality** | Virtual Reality (VR) is **a computer-generated environment with scenes and objects that appear to be real, making the user feel they are immersed in their surroundings.**| 
+
+# List of Abbreviations
+
+| **Acronym** | **Expansion** |
+| ------------| :------------:|
+| **3D** | Three-Dimensional space |
+| **5P** | Five elements that commences with letter ‘P’ Purpose, Place, Platform, Population and Profit |
+| **AR** | Augmented Reality |
+| **VR** | Virtual Reality |
+
+# Appendix
+There are two main ways in which VR is implemented in the classroom: VR headsets, and immersive classrooms.
+## VR headsets
+VR headsets are a common, practical way of implementing VR in the classroom. With minimal cost, equipment, and space needed, an increasing number of schools are turning to VR headsets.
+For a classroom of 30 students, typically up to 15 headsets are required. These are usually standalone headsets, which means they don’t have to be connected to any other device, such as a computer.
+The main benefit of VR headsets is the level of immersion they provide. Although they can be a little trickier to use than immersive classrooms, they provide a realistic experience.
+## Immersive Classrooms
+An immersive classroom is a teaching room in which images are projected onto the internal walls of the room. This creates a virtual environment within the classroom.
+Students can be “transported” to a different place, without having to leave the classroom. Without the need for VR headsets, students can enjoy the experience together, and are encouraged to interact with each other.
+Unlike VR headsets which some students can find difficult or uncomfortable to use, immersive classrooms are suitable for all students. The pupils are able to enjoy the VR content in a more familiar environment.
